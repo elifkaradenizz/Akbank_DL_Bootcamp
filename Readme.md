@@ -14,7 +14,7 @@ Modelin yapısı ve parametreleri:
 - **Giriş Katmanı:** Görüntü boyutuna uygun olarak verileri düzleştirir.
 - **Gizli Katmanlar:** 2 adet gizli katman
     - **Dense Katmanları:** (256, 128) ve `ReLU` aktivasyon fonksiyonu kullanır.
-- **Çıktı Katmanı:** 9 sınıfı tanımlamak için softmax aktivasyon fonksiyonu kullanır.
+- **Çıktı Katmanı:** 9 sınıfı tanımlamak için `softmax` aktivasyon fonksiyonu kullanır.
 - **Dropout:** 0.2
 - **Optimizasyon Algoritması:** Adam
 
