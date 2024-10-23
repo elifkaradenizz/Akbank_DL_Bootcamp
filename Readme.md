@@ -43,7 +43,6 @@ Modelin eğitim sürecindeki performansı ve epochlar arası değişimi grafikle
 ![Loss Graph](loss.png)
 
 ### Doğruluk Grafiği (Accuracy Graph)
----
 ![Accuracy Graph](accuracy.png)
 
 
