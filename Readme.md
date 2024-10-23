@@ -39,10 +39,10 @@ Modelin yapısı ve parametreleri:
 ## Model Performansı ve Epochlar Arası Karşılaştırma
 
 Modelin eğitim sürecindeki performansı ve epochlar arası değişimi grafiklerle gösterilmektedir:
-# Kayıp Fonksiyonu Grafiği (Loss Graph)
+### Kayıp Fonksiyonu Grafiği (Loss Graph)
 ![Loss Graph](loss.png)
 
-# Doğruluk Grafiği (Accuracy Graph)
+### Doğruluk Grafiği (Accuracy Graph)
 ![Accuracy Graph](accuracy.png)
 
 
