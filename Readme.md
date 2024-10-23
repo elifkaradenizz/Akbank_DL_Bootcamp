@@ -48,7 +48,7 @@ Modelin eğitim sürecindeki performansı ve epochlar arası değişimi grafikle
 
 ## Model Performansı ve Yorum
 
-Sonuç olarak, `Optimizer: Adam`, 2 Gizli Katman, `Dense: 256, 128` ve `Dropout: 0.2` uygulamasıyla birlikte, yüksek performans gösteren dengeli bir model oluşturulmuştur. Bu yapılandırma, diğer parametrelerle elde edilen modellere göre genel olarak başarılı sınıflandırma sonuçları ve sağlam bir öğrenme süreci sağlamaktadır. Hem doğruluk hem de kayıp açısından tatmin edici sonuçlar elde edilmesi, bu yapılandırmanın pek çok uygulamada kullanılabilir olduğunu göstermektedir.
+Sonuç olarak, `Optimizer: Adam`, `2 Gizli Katman`, `Dense: 256, 128` ve `Dropout: 0.2` uygulamasıyla birlikte, yüksek performans gösteren dengeli bir model oluşturulmuştur. Bu yapılandırma, diğer parametrelerle elde edilen modellere göre genel olarak başarılı sınıflandırma sonuçları ve sağlam bir öğrenme süreci sağlamaktadır. Hem doğruluk hem de kayıp açısından tatmin edici sonuçlar elde edilmesi, bu yapılandırmanın pek çok uygulamada kullanılabilir olduğunu göstermektedir.
 
 ## Proje Çıktıları
 
